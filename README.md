@@ -21,16 +21,16 @@ This overview delivers clear insights into the company’s financial performance
 - Revenue reached $64.4B, generating a Gross Profit of $26.0B and Net Income of $9.4B, demonstrating solid overall profitability.
 - The Net Income trend shows noticeable improvement in several months compared to last year, highlighting positive financial momentum.
 
-  ## Financial Corporate Insights
+## Financial Corporate Insights
 
-  ### Overview
+### Overview
   This is my second live financial dashboard created using Power BI, designed to provide a comprehensive view of company performance and key metrics over time.
 
-  ### Description
+### Description
   This Power BI financial dashboard provides an interactive and detailed overview of company performance, key financial metrics(KPIs-Key Performance Indicators), stock trends, employee data, and corporate background information.
   It is designed to help users analyze historical data and derive actionable insights.
 
- ### Features
+### Features
 - Financial MetricsKPIs-Key Performance Indicators): Displays key financial indicators such as Free Cash Flow (FCF), Cash & Debt, Net Profit Margin, and Shares Outstanding for each company from 2000 to 2022.
 - Stock Prices: Visualizes stock price trends for all companies from 2000 to 2020, highlighting that Eli Lillyrecorded the highest stock price at $597.60, followed by NVIDIA at $504.09.
 - Employee Data: Shows total employees, total sales, and the number of employees added over the years. Historical trends allow comparisons across past years.
