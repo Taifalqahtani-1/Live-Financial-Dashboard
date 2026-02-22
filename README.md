@@ -1,7 +1,7 @@
 # Live-Financial-Dashboards
 I built financial dashboards using Power BI and Tableau to analyze revenue, expenses, and key performance indicators.
 
-![Tableau Dashboard Screenshot] (FinDash using Tableau.png)
+ ![Tableau Dashboard Screenshot](FinDash using Tableau.png)
 
 ## Assessment Note
 I completed the Tarmeez Capital assessment by creating two interactive dashboards (Tableau & Power BI) with key financial metrics, stock trends, employee data, and insights. All work meets the assessment requirements and is submitted before the deadline.
