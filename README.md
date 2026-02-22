@@ -1,4 +1,4 @@
-# Live-Financial-Dashboard
+# Live-Financial-Dashboards
 I built financial dashboards using Power BI and Tableau to analyze revenue, expenses, and key performance indicators.
 
 ## CFO Level Financial Metrics
