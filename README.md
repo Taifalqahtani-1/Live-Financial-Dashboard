@@ -1,8 +1,8 @@
 # Live-Financial-Dashboards
-I built financial dashboards using Tableau public and Power BI Online to analyze revenue, expenses, and key performance indicators.
+I built financial dashboards using Tableau Public and Power BI Online to analyze revenue, expenses, and key performance indicators.
 
 ## Assessment Note
-I completed the Tarmeez Capital assessment by creating two interactive dashboards (Tableau & Power BI) with key financial metrics, stock trends, employee data, and insights. All work meets the assessment requirements and is submitted before the deadline.
+I completed the Tarmeez Capital assessment by creating two interactive dashboards (Tableau Public & Power BI Online) with key financial metrics, stock trends, employee data, and insights. All work meets the assessment requirements and is submitted before the deadline.
 
 ## CFO Level Financial Metrics
 
