@@ -40,8 +40,6 @@ The dataset includes the following key fields:
 Some values were adjusted or cleaned to ensure accuracy and compatibility with the analytical models and visualizations used throughout the project.
 
 
-
-
 ### Description
 This project, “CFO Level Financial Metrics”, provides an executive financial overview based on historical company data. I analyzed key performance indicators (KPIs) including Gross Margin, Operating Margin, and Return on Assets (ROA).
 The analysis includes a comparison of this year versus last year, highlighting changes in profitability and operational efficiency. I also reviewed the Income Statement in detail, identifying key drivers of revenue, expenses, and net profit.
@@ -53,6 +51,21 @@ This overview delivers clear insights into the company’s financial performance
 - Return on Assets (ROA) slightly declined to 8.6% (-0.2%), suggesting a minor decrease in asset utilization efficiency.
 - Revenue reached $64.4B, generating a Gross Profit of $26.0B and Net Income of $9.4B, demonstrating solid overall profitability.
 - The Net Income trend shows noticeable improvement in several months compared to last year, highlighting positive financial momentum.
+
+### Assumptions & Limitations
+
+| Category     | Details                                                                                   |
+|------------------|-----------------------------------------------------------------------------------------------|
+| Assumptions  | - Fiscal reporting periods are consistent across companies.                                  |
+|                  | - Missing values are estimated using median values within similar groups.                    |
+|                  | - Financial figures reflect the same accounting standards.                                   |
+|                  | - Interactive data is assumed to follow the adjusted timeline (2025–2026) for this analysis. |
+| Limitations  | - Dataset may not include all industries or regions.                                          |
+|                  | - Some records are incomplete, which may affect trend accuracy.                              |
+|                  | - Currency differences were not fully normalized across all entries.                         |
+|                  | - Historical data was originally aligned to 2024–2025 and was manually updated to 2025–2026, |
+|                  |   which may affect temporal consistency in the analysis.        
+
 
 ## Financial Corporate Insights
 
