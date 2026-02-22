@@ -79,6 +79,9 @@ This Power BI dashboard is interactive and can be accessed online. (Power BI web
 
 ### Overview
   This is my second live financial dashboard created using Power BI, designed to provide a comprehensive view of company performance and key metrics over time.
+- Which companies demonstrate the strongest financial performance and growth potential from 2019 to 2023 based on revenue, profitability, liquidity,     and efficiency indicators?
+- Who’re the top performance?
+- Which companies are operationally efficient?
   
 ### Data Source 
 The primary dataset for this project was obtained from Kaggle (https://www.kaggle.com/datasets/rish59/financial-statements-of-major-companies2009-2023?utm_source=chatgpt.com) and consists of multiple CSV files related to stock financials and company profiles. These files contain key financial and organizational attributes used in the analysis, including metrics such as revenue, profits, and market data.
