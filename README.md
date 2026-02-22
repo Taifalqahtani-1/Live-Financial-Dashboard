@@ -8,12 +8,6 @@ I completed the Tarmeez Capital assessment by creating two interactive dashboard
 
 <img width="1600" height="1090" alt="FinDash using Tableau" src="https://github.com/user-attachments/assets/bd9418fa-517b-405d-9f79-ae4d595a81ac" />
 
-## Live Interactive Dashboard
-
-You can access the dashboard here:
-
-[Click here to view the dashboard](https://app.powerbi.com/view?r=eyJrIjoiN2EwZTE5Y2UtZDIyZS00N2VlLWJjNzktYWZjOWY4NWEwOTQwIiwidCI6IjNlMDNiMmEzLWNkM2EtNDZmNy1iMDUxLTc2YjQzMzQ0Zjk5MyIsImMiOjl9)
-
 ### Overview
 This is my first live financial dashboard developed using Tableau.
 
@@ -32,6 +26,12 @@ This overview delivers clear insights into the company’s financial performance
 ## Financial Corporate Insights
 
 <img width="1496" height="826" alt="Financial Corporate using Power BI" src="https://github.com/user-attachments/assets/a2553891-c58d-4e74-8d02-7c40ded0e6bf" />
+
+## Live Interactive Dashboard
+
+You can access the dashboard here:
+
+[Click here to view the dashboard](https://app.powerbi.com/view?r=eyJrIjoiN2EwZTE5Y2UtZDIyZS00N2VlLWJjNzktYWZjOWY4NWEwOTQwIiwidCI6IjNlMDNiMmEzLWNkM2EtNDZmNy1iMDUxLTc2YjQzMzQ0Zjk5MyIsImMiOjl9)
 
 ### Overview
   This is my second live financial dashboard created using Power BI, designed to provide a comprehensive view of company performance and key metrics over time.
