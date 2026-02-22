@@ -20,6 +20,25 @@ This is my first live financial dashboard developed using Tableau.
 How is the company's financial performance evolving over time, and what are the main drivers of revenue, expenses, and profitability?
 
 ### Data Source 
+The dataset used in this project was originally obtained from Kaggle(https://www.kaggle.com/datasets/jacksoncrow/stock-market-dataset ), and then customized to suit the needs of this analysis. The source contains financial and organizational data for various companies, which has been refined and processed for consistency and relevance.
+The dataset includes the following key fields:
+- Date
+- Company
+- Division
+- Region
+- Revenue
+- COGS (Cost of Goods Sold)
+- Gross Profit
+- Operating Expenses
+- Operating Income
+- Interest Expense
+- Pre-Tax Income
+- Income Tax
+- Net Income
+- Assets
+Some values were adjusted or cleaned to ensure accuracy and compatibility with the analytical models and visualizations used throughout the project.
+
+
 
 
 ### Description
