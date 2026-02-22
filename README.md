@@ -79,6 +79,8 @@ This Power BI dashboard is interactive and can be accessed online. (Power BI web
 
 ### Overview
   This is my second live financial dashboard created using Power BI, designed to provide a comprehensive view of company performance and key metrics over time.
+  
+### Data Source 
 
 ### Description
   This Power BI financial dashboard provides an interactive and detailed overview of company performance, key financial metrics (KPIs-Key Performance Indicators) , stock trends, employee data, and   corporate background information.
