@@ -1,7 +1,8 @@
 # Live-Financial-Dashboards
 I built financial dashboards using Power BI and Tableau to analyze revenue, expenses, and key performance indicators.
 
- ![Tableau Dashboard Screenshot](FinDash using Tableau.png)
+ 
+<img width="1600" height="1090" alt="FinDash using Tableau" src="https://github.com/user-attachments/assets/f1092fa2-66d5-4193-afae-efd21415902d" />
 
 ## Assessment Note
 I completed the Tarmeez Capital assessment by creating two interactive dashboards (Tableau & Power BI) with key financial metrics, stock trends, employee data, and insights. All work meets the assessment requirements and is submitted before the deadline.
@@ -24,6 +25,8 @@ This overview delivers clear insights into the company’s financial performance
 - The Net Income trend shows noticeable improvement in several months compared to last year, highlighting positive financial momentum.
 
 ## Financial Corporate Insights
+
+<img width="1496" height="826" alt="Financial Corporate using Power BI" src="https://github.com/user-attachments/assets/a2553891-c58d-4e74-8d02-7c40ded0e6bf" />
 
 ### Overview
   This is my second live financial dashboard created using Power BI, designed to provide a comprehensive view of company performance and key metrics over time.
