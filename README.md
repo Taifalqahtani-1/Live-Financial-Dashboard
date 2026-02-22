@@ -1,6 +1,8 @@
 # Live-Financial-Dashboards
 I built financial dashboards using Power BI and Tableau to analyze revenue, expenses, and key performance indicators.
 
+![Tableau Dashboard Screenshot] (FinDash using Tableau.png)
+
 ## Assessment Note
 I completed the Tarmeez Capital assessment by creating two interactive dashboards (Tableau & Power BI) with key financial metrics, stock trends, employee data, and insights. All work meets the assessment requirements and is submitted before the deadline.
 
@@ -27,12 +29,12 @@ This overview delivers clear insights into the company’s financial performance
   This is my second live financial dashboard created using Power BI, designed to provide a comprehensive view of company performance and key metrics over time.
 
 ### Description
-  This Power BI financial dashboard provides an interactive and detailed overview of company performance, key financial metrics(KPIs-Key Performance Indicators), stock trends, employee data, and corporate background information.
+  This Power BI financial dashboard provides an interactive and detailed overview of company performance, key financial metrics (KPIs-Key Performance Indicators) , stock trends, employee data, and   corporate background information.
   It is designed to help users analyze historical data and derive actionable insights.
 
 ### Features
 - Financial MetricsKPIs-Key Performance Indicators): Displays key financial indicators such as Free Cash Flow (FCF), Cash & Debt, Net Profit Margin, and Shares Outstanding for each company from 2000 to 2022.
-- Stock Prices: Visualizes stock price trends for all companies from 2000 to 2020, highlighting that Eli Lillyrecorded the highest stock price at $597.60, followed by NVIDIA at $504.09.
+- Stock Prices: Visualizes stock price trends for all companies from 2000 to 2020, highlighting that Eli Lilly recorded the highest stock price at $597.60, followed by NVIDIA at $504.09.
 - Employee Data: Shows total employees, total sales, and the number of employees added over the years. Historical trends allow comparisons across past years.
 - Background Information: Provides details about each company's CEO and sector, giving context for financial and operational performance.
 - Search Functionality: Allows users to quickly find specific companies and access their financial and operational metrics.
