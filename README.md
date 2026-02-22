@@ -36,7 +36,8 @@ The dataset includes the following key fields:
 - Income Tax
 - Net Income
 - Assets
- Some values were adjusted or cleaned to ensure accuracy and compatibility with the analytical models and visualizations used throughout the project.
+  
+Some values were adjusted or cleaned to ensure accuracy and compatibility with the analytical models and visualizations used throughout the project.
 
 
 
