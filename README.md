@@ -17,6 +17,7 @@ You can view the dashboard here:
 
 ### Overview
 This is my first live financial dashboard developed using Tableau.
+How is the company's financial performance evolving over time, and what are the main drivers of revenue, expenses, and profitability?
 
 ### Description
 This project, “CFO Level Financial Metrics”, provides an executive financial overview based on historical company data. I analyzed key performance indicators (KPIs) including Gross Margin, Operating Margin, and Return on Assets (ROA).
