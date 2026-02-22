@@ -120,3 +120,14 @@ Some records were removed during data cleaning, and the analysis period was narr
 
 
    
+## Assumptions & Limitations
+
+| Category     | Details                                                                                                                        |
+|------------------|------------------------------------------------------------------------------------------------------------------------------------|
+| Assumptions  | - Financial reporting periods are assumed consistent and comparable across all companies from 2019–2023.                         |
+|                  | - All monetary values were normalized to USD to enable fair cross‑company comparisons.                                             |
+|                  | - Free Cash Flow (FCF), Cash & Debt, Net Profit Margin, and Shares Outstanding are assumed to be reliable indicators of performance. |
+| Limitations  | - Some companies contain incomplete records, which may affect trend accuracy for those specific cases.                             |
+|                  | - EPS was not available in the dataset and therefore was excluded from the analysis.                                               |
+|                  | - Variations in industry sectors may influence financial patterns, limiting direct comparability across highly different companies.   |
+|                  | - Manual adjustments and filtering (e.g., selecting 2019–2023 period) may introduce bias when extending conclusions beyond the dataset. |
