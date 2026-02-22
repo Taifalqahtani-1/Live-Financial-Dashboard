@@ -8,6 +8,13 @@ I completed the Tarmeez Capital assessment by creating two interactive dashboard
 
 <img width="1600" height="1090" alt="FinDash using Tableau" src="https://github.com/user-attachments/assets/bd9418fa-517b-405d-9f79-ae4d595a81ac" />
 
+## Live Interactive Dashboard (Tableau)
+
+This project includes a fully interactive financial dashboard built using Tableau Public.
+
+You can view the dashboard here:  
+[Click here to open the Tableau Dashboard](https://public.tableau.com/app/profile/taif.alqahtani7732/viz/FinaDash_/Dashboard1)
+
 ### Overview
 This is my first live financial dashboard developed using Tableau.
 
