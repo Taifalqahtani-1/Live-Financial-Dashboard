@@ -36,7 +36,7 @@ This overview delivers clear insights into the company’s financial performance
 
 ## Live Interactive Dashboard
 
-You can access the dashboard here:
+This Power BI dashboard is interactive and can be accessed online. (Power BI web)
 
 [Click here to view the dashboard](https://app.powerbi.com/view?r=eyJrIjoiN2EwZTE5Y2UtZDIyZS00N2VlLWJjNzktYWZjOWY4NWEwOTQwIiwidCI6IjNlMDNiMmEzLWNkM2EtNDZmNy1iMDUxLTc2YjQzMzQ0Zjk5MyIsImMiOjl9)
 
