@@ -81,6 +81,22 @@ This Power BI dashboard is interactive and can be accessed online. (Power BI web
   This is my second live financial dashboard created using Power BI, designed to provide a comprehensive view of company performance and key metrics over time.
   
 ### Data Source 
+The primary dataset for this project was obtained from Kaggle (https://www.kaggle.com/datasets/rish59/financial-statements-of-major-companies2009-2023?utm_source=chatgpt.com) and consists of multiple CSV files related to stock financials and company profiles. These files contain key financial and organizational attributes used in the analysis, including metrics such as revenue, profits, and market data.
+The dataset includes the following fields across the CSV files:
+- Ticker
+- Year
+- Debt
+- Cash
+- FCF (Free Cash Flow)
+- Revenue
+- Shares Outstanding
+- Net Profit Margin
+- Net Income
+- EPS (Earnings Per Share)
+- Employees
+- Exchange
+  
+Some records were removed during data cleaning, and the analysis period was narrowed down to cover the years 2019–2023 for consistency and relevance. The data was preprocessed and transformed to ensure correctness and suitability for the financial analysis performed in this project.
 
 ### Description
   This Power BI financial dashboard provides an interactive and detailed overview of company performance, key financial metrics (KPIs-Key Performance Indicators) , stock trends, employee data, and   corporate background information.
