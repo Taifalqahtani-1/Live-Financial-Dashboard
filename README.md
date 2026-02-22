@@ -8,6 +8,12 @@ I completed the Tarmeez Capital assessment by creating two interactive dashboard
 
 <img width="1600" height="1090" alt="FinDash using Tableau" src="https://github.com/user-attachments/assets/bd9418fa-517b-405d-9f79-ae4d595a81ac" />
 
+## Live Interactive Dashboard
+
+You can access the dashboard here:
+
+[Click here to view the dashboard](https://app.powerbi.com/view?r=eyJrIjoiN2EwZTE5Y2UtZDIyZS00N2VlLWJjNzktYWZjOWY4NWEwOTQwIiwidCI6IjNlMDNiMmEzLWNkM2EtNDZmNy1iMDUxLTc2YjQzMzQ0Zjk5MyIsImMiOjl9)
+
 ### Overview
 This is my first live financial dashboard developed using Tableau.
 
